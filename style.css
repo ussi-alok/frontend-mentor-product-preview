@@ -12,3 +12,11 @@
     font-family: montserrat;
     src: url(./fonts/Montserrat-Regular.ttf);
 }
+:root{
+    --clr-neutral-dark-blue: hsl(212, 21%, 14%);
+    --clr-neutral-grayish-blue: hsl(228, 12%, 48%);
+    --clr-neutral-white: hsl(0, 0%, 100%);
+
+    --clr-primary-cyan: hsl(158, 36%, 37%);
+    --clr-primary-cream: hsl(30, 38%, 92%);
+}
